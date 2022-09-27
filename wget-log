@@ -1,0 +1,11 @@
+--2022-09-21 04:06:02--  https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2019/08/1280/720/GettyImages-1156210021_1564055742878_7547483_ver1.0_1280_720-3.jpg?ve=1
+Resolving images.foxtv.com (images.foxtv.com)... 146.75.38.132
+Connecting to images.foxtv.com (images.foxtv.com)|146.75.38.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203960 (199K) [image/jpeg]
+Saving to: ‘GettyImages-1156210021_1564055742878_7547483_ver1.0_1280_720-3.jpg?ve=1’
+
+                        GettyImages-1156210021_   0%[                                                                                                        ]       0  --.-KB/s               GettyImages-1156210021_1564055742878_7547483_ve 100%[=======================================================================================================>] 199.18K  --.-KB/s    in 0.003s  
+
+2022-09-21 04:06:02 (66.6 MB/s) - ‘GettyImages-1156210021_1564055742878_7547483_ver1.0_1280_720-3.jpg?ve=1’ saved [203960/203960]
+
